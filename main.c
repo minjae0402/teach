@@ -6,5 +6,7 @@ int main()
     int a = 10;
     printf(a);
     printf("End.");
+    int b = 20;
+    printf(b);
     return 0;
 }
